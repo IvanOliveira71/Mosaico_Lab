@@ -5,7 +5,7 @@ st.set_page_config(
     page_title="The Mosaico Lab",
     page_icon="🔬",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="expanded")
 
 # --- Custom CSS for Styling (Simulating the Medieval-Alchemy/Post-Modern Blend) ---
 st.markdown(
